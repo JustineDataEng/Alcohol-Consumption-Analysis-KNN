@@ -46,3 +46,5 @@ The dataset tracks regional consumption from 1998 to 2016 across several categor
 * **Machine Learning:** `Scikit-Learn` (GridSearchCV, KNeighborsRegressor, KNeighborsClassifier)
 * **Visualization:** `Matplotlib`, `Seaborn`
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JustineDataEng/Alcohol-Consumption-Analysis-KNN/blob/main/ML_KNN_Project.ipynb)
