@@ -7,14 +7,14 @@ This repository contains a comprehensive Machine Learning analysis of alcohol co
 
 ---
 
-## ** The Data**
+## The Data
 The dataset tracks regional consumption from 1998 to 2016 across several categories:
 * **Categories:** Wine, Beer, Vodka, Champagne, and Brandy.
 * **Preprocessing:** Handled missing values (approx. 60 per category) using mean imputation and conducted regional grouping to identify temporal trends.
 
 ---
 
-## ** Machine Learning Pipelines**
+## Machine Learning Pipelines
 
 ### **1. KNN Classification (Consumption Levels)**
 * **Objective:** Predict whether a region falls into a High, Medium, or Low consumption tier.
@@ -41,7 +41,7 @@ The dataset tracks regional consumption from 1998 to 2016 across several categor
 
 ---
 
-## ** Tech Stack**
+## Tech Stack
 * **Analysis:** `Pandas`, `NumPy`
 * **Machine Learning:** `Scikit-Learn` (GridSearchCV, KNeighborsRegressor, KNeighborsClassifier)
 * **Visualization:** `Matplotlib`, `Seaborn`
